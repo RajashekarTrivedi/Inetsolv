@@ -1,4 +1,4 @@
-package com.inetsolv.mapreduce.job;
+package com.inetsolv.mapreduce.mapper;
 
 import org.apache.commons.lang.StringUtils;
 import org.apache.hadoop.io.LongWritable;

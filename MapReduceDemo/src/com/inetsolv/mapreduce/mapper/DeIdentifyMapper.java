@@ -1,4 +1,4 @@
-package com.inetsolv.mapreduce.job;
+package com.inetsolv.mapreduce.mapper;
 
 import javax.crypto.Cipher;
 import javax.crypto.spec.IvParameterSpec;

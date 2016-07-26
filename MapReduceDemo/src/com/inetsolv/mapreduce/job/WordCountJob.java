@@ -12,6 +12,7 @@ import org.apache.hadoop.mapreduce.lib.output.TextOutputFormat;
 import org.apache.hadoop.util.Tool;
 import org.apache.hadoop.util.ToolRunner;
 
+import com.inetsolv.mapreduce.mapper.WordCountMapper;
 import com.inetsolv.mapreduce.reducer.WordCountReducer;
 
 public class WordCountJob extends Configured implements Tool {
